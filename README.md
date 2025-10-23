@@ -3,6 +3,8 @@
 # Description
 This repository contains the Vensim model for a dynamic Land Use-Transport Interaction (LUTI) model, designed to analyse the relationship between land use changes and transportation demand over time. The model incorporates various factors influencing travel demand, supply, residential relocation, and urban development, with a focus on dynamic interactions and feedback loops between land use patterns and mobility choices.
 
+For more details, you can find the technical reports and papers in the **Literature** folder.
+
 # Citation
 If you found this repository useful, you can acknowledge the authors by citing:
 
